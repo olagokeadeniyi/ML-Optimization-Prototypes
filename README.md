@@ -2,9 +2,12 @@
 
 ### Features:
 
-Red Fox Optimization (RFO): Python implementation of meta-heuristic optimization for system responsiveness.
+Research Modules:
+Data Integrity Manager: SHA-256 blockchain-based verification for secure logging.
 
-BiLSTM Architectures: Deep learning models for time-series prediction and system adaptation.
+Anomaly Detection Evaluator: ROC/AUC performance analysis for classification models.
+
+Deployment Analytics: Visual tools for assessing user sentiment during phased rollouts (HCI focus).
 
 ### Technical Stack:
 
