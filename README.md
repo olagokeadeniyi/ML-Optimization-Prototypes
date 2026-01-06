@@ -1,2 +1,17 @@
-# ML-Optimization-Prototypes
-Implementation of bio-inspired algorithms and deep learning architectures for system optimization. Featuring Red Fox Optimization (RFO) and BiLSTM models developed for high-performance predictive systems. Focused on enhancing responsiveness and multimodal data processing. Developed as part of MSIT research
+# ML-Optimization-Prototypes This repository contains core implementations of bio-inspired optimization and sequence modeling developed during my MSIT research.
+
+### Features:
+
+Red Fox Optimization (RFO): Python implementation of meta-heuristic optimization for system responsiveness.
+
+BiLSTM Architectures: Deep learning models for time-series prediction and system adaptation.
+
+### Technical Stack:
+
+Language: Python 3.10+
+
+Frameworks: PyTorch / TensorFlow
+
+Environment: Developed and tested on Ubuntu Linux.
+
+Note: This repository serves as a technical portfolio for research applications. Detailed proprietary implementations are available upon request.
